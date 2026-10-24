@@ -1,0 +1,19 @@
+
+# Private health records
+symptoms.json
+cycles.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Streamlit local configuration
+.streamlit/secrets.toml
+
+# Operating system files
+.DS_Store
+Thumbs.db
